@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm ✨ Misa ✨ 👋 
 
 
-## I'm a year 4 CSE student, music🎵 and movie🍿 lover! <img align="right" src="https://hoppip.tumblr.com/post/83110954053" alt="Programmation" width="200" />
+## I'm a year 4 CSE student, music🎵 and movie🍿 lover! <img align="right" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with more then 3 years experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
