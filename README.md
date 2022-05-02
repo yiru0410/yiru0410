@@ -13,19 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm ✨ [Alfred][website] ✨ - as [Kilukru Media][websitekm] [ki ly kʀy] 👋 
+### Hi there, I'm ✨ [Misa][website] ✨ 👋 
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Dancer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-- 👨🏻‍💻 Developer with more then 16 years experience
-- 🎨 I’m currently creating a [NFT project][websitenftlove] ❤️!
-- 📝 I’m currently writing a [Blog about technologies][websitekilukrudev] ✍️🖊️!
-- 🔭 I’m currently working on a [Microgreens App][websitemtp] 🌱!
+## I'm a four year CSE student in CUHK(SZ), music🎵 and movie🍿 lover! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+- 👨🏻‍💻 Developer with more then 3 years experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🚀 One day I will see humans on Mars!
-- ⚡ Fun facts: I love to be in the garden and build a house
+- 🥅 2022 Goals: Study hard and get intership opportunity 
+- ⚡ Fun facts: BIGBANG forever! 👑
 
 <br />
 
