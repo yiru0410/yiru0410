@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm ✨ [Misa][website] ✨ 👋 
 
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Misa;4+Year+Student" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
-</div>
-
-## I'm a four year CSE student in CUHK(SZ), music🎵 and movie🍿 lover! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a year 4 CSE student, music🎵 and movie🍿 lover! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with more then 3 years experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
