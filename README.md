@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm ✨ Misa ✨ 👋 
 
-## I'm a year 4 CSE student, music🎵 and movie🍿 lover! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+
+## I'm a year 4 CSE student, music🎵 and movie🍿 lover! <img align="right" src="https://hoppip.tumblr.com/post/83110954053" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with more then 3 years experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
@@ -26,6 +27,8 @@ Here are some ideas to get you started:
 <br />
 
 <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
+
+
 
 <!-- ## 🎧 Spotify Playing
 
