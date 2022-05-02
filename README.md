@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm ✨ [Misa][website] ✨ 👋 
+### Hi there, I'm ✨ Misa ✨ 👋 
 
 ## I'm a year 4 CSE student, music🎵 and movie🍿 lover! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with more then 3 years experience
