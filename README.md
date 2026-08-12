@@ -16,19 +16,6 @@ Here are some ideas to get you started:
 ### Hi there, I'm ✨ Misa ✨ 👋 
 
 
-## I'm a graduate student in CMU INI, music🎵 and movie🍿 lover! <img align="right" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="Programmation" width="200" />
-- 👨🏻‍💻 Developer with more then 4 years experience
-- 🌱 I’m currently learning everything 🤣
-- 💡 I love innovation and new technologies
-- 🤝 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Study hard and get intership opportunity 
-- ⚡ Fun facts: BIGBANG forever! 👑
-
-<br />
-
-
-
-
 
 <!-- ## 🎧 Spotify Playing
 
